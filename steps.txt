@@ -1,0 +1,14 @@
+# 1️⃣ Go to D: drive
+D:
+
+# 2️⃣ Move into your project folder
+cd komal-portfolio
+
+# 3️⃣ Log in to Vercel (if not already logged in)
+vercel login
+
+# 4️⃣ Deploy the project
+vercel
+
+# 5️⃣ After making any changes, redeploy to production
+vercel --prod
